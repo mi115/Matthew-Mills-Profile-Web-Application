@@ -34,7 +34,7 @@ namespace Matthew_Mills_Profile_Project.Models
                     new Project
                     {
                         ProjectName = "Web_App_Test",
-                        Description = "A PyPi Clone using Flask as a framewrok",
+                        Description = "A PyPi Clone using Flask as a framework",
                         LastModified = DateTime.Parse("2019-11-17"),
                         Status = "Complete",
                         GitLink = "Not Available"

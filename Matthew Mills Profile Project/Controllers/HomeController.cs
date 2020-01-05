@@ -23,12 +23,12 @@ namespace Matthew_Mills_Profile_Project.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult CV()
         {
             return View();
         }
 
-        public IActionResult CV()
+        public IActionResult Contact()
         {
             return View();
         }
